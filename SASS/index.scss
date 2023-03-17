@@ -351,17 +351,8 @@ $bigFont: "Raleway", sans-serif;
                 color: #bb2929;
             }
 
-            &__grupo-incorrecto .formulario__validacion-estado {
-                color: #bb2929;
-                opacity: 1;
-            }
-
             &__grupo-incorrecto .formulario__input {
                 border: 3px solid #bb2929;
-            }
-
-            .fa-solidfa-circle-check {
-                opacity: 0;
             }
 
             &__btn-clouse {
@@ -1923,6 +1914,7 @@ $bigFont: "Raleway", sans-serif;
             }
         }
 
+
         .formulario:target {
             visibility: visible;
             opacity: 1;
@@ -2010,7 +2002,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/1l.jpg);
+                background-image: url(/IMAGENES/1l.jpg);
             }
 
             &__img2 {
@@ -2019,7 +2011,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/2c.jpg);
+                background-image: url(/IMAGENES/2c.jpg);
             }
 
             &__img3 {
@@ -2028,7 +2020,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/3t.jpg);
+                background-image: url(/IMAGENES/3t.jpg);
             }
 
             &__banner {
@@ -2087,7 +2079,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/andres.jpg);
+                background-image: url(/IMAGENES/andres.jpg);
             }
 
             &__text {
@@ -2117,7 +2109,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/carla.jpg);
+                background-image: url(/IMAGENES/carla.jpg);
             }
 
             &__img--mario {
@@ -2126,7 +2118,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/mario.jpg);
+                background-image: url(/IMAGENES/mario.jpg);
             }
 
             &__img--pablo {
@@ -2135,7 +2127,7 @@ $bigFont: "Raleway", sans-serif;
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;
-                background-image: url(./IMAGENES/pablo.jpg);
+                background-image: url(/IMAGENES/pablo.jpg);
             }
         }
 
